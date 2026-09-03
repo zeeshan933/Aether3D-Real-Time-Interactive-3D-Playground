@@ -33,7 +33,7 @@ Make sure you have [Node.js](https://nodejs.org/) installed on your machine.
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/aether3d.git
+   git clone https://github.com/zeeshan933/Aether3D-Real-Time-Interactive-3D-Playground.git
    ```
 
 2. **Navigate to the project directory:**
